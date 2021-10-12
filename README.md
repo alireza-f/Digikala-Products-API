@@ -16,7 +16,5 @@ build the docker image:
 
 ```
 docker build .
-```
-```
 docker-compose up -d
 ```
